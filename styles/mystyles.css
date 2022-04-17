@@ -1,0 +1,14 @@
+.bold{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.color{
+	color: purple;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.underline{text-decoration: underline;}
